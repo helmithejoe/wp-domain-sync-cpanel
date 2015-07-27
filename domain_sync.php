@@ -4,7 +4,7 @@ Plugin Name: WordPress Domain Sync cPanel
 Plugin URI: -
 Description: Sync all domains in a WordPress multi websites with the cPanel domains. This plugin require WordPress MU Domain Mapping
 Version: 0.0.2
-Author: helmi@bee38.net
+Author: https://github.com/helmithejoe
 Author URI: -
 */
 
